@@ -4,7 +4,7 @@
 
 - **Name:** Sujith Kumar
 - **Registration Number:** 252U1R1178
-- **Section:** CSE QE (2A)
+- **Section:** CSE 2D
 - **Course:** Backend Development Fundamentals · Year II Term II
 
 ---
